@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Hey Mama",
+  "base_artist": "The Black Eyed Peas",
+  "createdAt": "2026-02-25T03:14:03.603915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Mama You've Been on My Mind",
+      "artist": "The Caravelles",
+      "has_synced": false,
+      "path": "select/01_Hey_Mama_You've_Been_on_My_Mind_The_Caravelles.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Mama",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/02_Hey_Mama_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Mama",
+      "artist": "David Guetta feat. Nicki Minaj & Afrojack",
+      "has_synced": true,
+      "path": "select/03_Hey_Mama_David_Guetta_feat._Nicki_Minaj_&_Afrojack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Mama (feat. Nicki Minaj & Afrojack)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/04_Hey_Mama_(feat._Nicki_Minaj_&_Afrojack)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey mama",
+      "artist": "Righeira",
+      "has_synced": false,
+      "path": "select/05_Hey_mama_Righeira.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey mama",
+      "artist": "Righeira",
+      "has_synced": true,
+      "path": "select/06_Hey_mama_Righeira.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Mama Wolf",
+      "artist": "Devendra Banhart",
+      "has_synced": true,
+      "path": "select/07_Hey_Mama_Wolf_Devendra_Banhart.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Mama",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/08_Hey_Mama_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Mama",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/09_Hey_Mama_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Mama",
+      "artist": "The Black Eyed Peas feat. Tippa Irie",
+      "has_synced": false,
+      "path": "select/10_Hey_Mama_The_Black_Eyed_Peas_feat._Tippa_Irie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Mama (Main)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/11_Hey_Mama_(Main)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Mama",
+      "artist": "Kingdom Come",
+      "has_synced": false,
+      "path": "select/12_Hey_Mama_Kingdom_Come.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Mama (From \"Sethupathi\")",
+      "artist": "Anirudh Ravichander",
+      "has_synced": true,
+      "path": "select/13_Hey_Mama_(From__Sethupathi_)_Anirudh_Ravichander.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Mama-StarMusiQ.Com",
+      "artist": "Anirudh Ravichander",
+      "has_synced": true,
+      "path": "select/14_Hey_Mama-StarMusiQ.Com_Anirudh_Ravichander.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) - Extended",
+      "artist": "David Guetta, Afrojack, Nicki Minaj & Bebe Rexha",
+      "has_synced": true,
+      "path": "select/15_Hey_Mama_(feat._Nicki_Minaj,_Bebe_Rexha_&_Afrojack)_-_Extended_David_Guetta,_Afrojack,_Nicki_Minaj_&_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+      "artist": "David Guetta, Afrojack, Bebe Rexha, Nicki Minaj",
+      "has_synced": true,
+      "path": "select/16_Hey_Mama_(feat._Nicki_Minaj,_Bebe_Rexha_&_Afrojack)_David_Guetta,_Afrojack,_Bebe_Rexha,_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hey Mama",
+      "artist": "David Guetta feat. Nicki Minaj, Bebe Rexha & Afrojack",
+      "has_synced": true,
+      "path": "select/17_Hey_Mama_David_Guetta_feat._Nicki_Minaj,_Bebe_Rexha_&_Afrojack.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Hey There",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/18_Hey_There_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hey There",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/19_Hey_There_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "artist": "B.J. Thomas",
+      "has_synced": false,
+      "path": "select/20_(Hey_Won't_You_Play)_Another_Somebody_Done_Somebody_Wrong_Song_B.J._Thomas.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Hey Bartender",
+      "artist": "Johnny Lee",
+      "has_synced": true,
+      "path": "select/21_Hey_Bartender_Johnny_Lee.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Hey Bobby",
+      "artist": "K.T. Oslin",
+      "has_synced": true,
+      "path": "select/22_Hey_Bobby_K.T._Oslin.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Hey Cinderella",
+      "artist": "Suzy Bogguss",
+      "has_synced": true,
+      "path": "select/23_Hey_Cinderella_Suzy_Bogguss.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Hey Driver",
+      "artist": "Dale Watson",
+      "has_synced": false,
+      "path": "select/24_Hey_Driver_Dale_Watson.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Hey Girl",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/25_Hey_Girl_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Hey Girl (Album Version)",
+      "artist": "Billy Currington",
+      "has_synced": true,
+      "path": "select/26_Hey_Girl_(Album_Version)_Billy_Currington.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Hey Girl (Radio Version)",
+      "artist": "Anne Wilson",
+      "has_synced": true,
+      "path": "select/27_Hey_Girl_(Radio_Version)_Anne_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Hey Joe",
+      "artist": "Carl Smith",
+      "has_synced": false,
+      "path": "select/28_Hey_Joe_Carl_Smith.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Hey Joe, Hey Moe",
+      "artist": "Moe Bandy",
+      "has_synced": false,
+      "path": "select/29_Hey_Joe,_Hey_Moe_Moe_Bandy.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Hey Loretta - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/30_Hey_Loretta_-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Hey Loretta (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/31_Hey_Loretta_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Hey Merle",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/32_Hey_Merle_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Hey Porter",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/33_Hey_Porter_Johnny_Cash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey Mama",
+      "artist": "The Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_Mama_The_Black_Eyed_Peas.txt"
+    }
+  ]
+}
